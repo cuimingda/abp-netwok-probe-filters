@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: Custom Adblock Plus Filter List
+! Description: custom filters
+! Homepage: https://github.com/cuimingda/adblock-plus-filter-list
+! Expires: 1 day
+
+*$script,domain=baidu.com
