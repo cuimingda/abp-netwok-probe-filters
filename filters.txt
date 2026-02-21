@@ -5,7 +5,8 @@
 ! Expires: 1 day
 
 ! baidu.com
-||pss.bdstatic.com^$domain=www.baidu.com
+! ||pss.bdstatic.com^$domain=www.baidu.com
+||bdstatic.com^
 www.baidu.com###s_wrap
 www.baidu.com###chat-input-extension
 www.baidu.com##.chat-input-tool
