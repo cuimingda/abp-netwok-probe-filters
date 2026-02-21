@@ -5,7 +5,7 @@
 ! Expires: 1 day
 
 ! baidu.com
-*$domain=www.baidu.com
+||www.baidu.com^$all
 @@||baidu.com^$document
 www.baidu.com###s_wrap
 www.baidu.com###chat-input-extension
@@ -13,7 +13,7 @@ www.baidu.com##.chat-input-tool
 www.baidu.com##.s_top_container
 
 ! so.com
-*$domain=www.so.com
+||www.so.com^$all
 @@||so.com^$document
 www.so.com###header
 www.so.com###ai_searchbox_tabs
