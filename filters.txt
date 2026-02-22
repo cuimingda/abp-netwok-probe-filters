@@ -14,6 +14,18 @@ www.baidu.com##.chat-input-tool
 www.baidu.com##.s_top_container
 www.baidu.com###s_wrap
 
+! google.com
+||google.com^/*_204/^$domain=www.google.com
+||google.com^/log/$domain=www.google.com
+||google.com^/pagead/$domain=www.google.com
+||google.com^/u/0/ogw/$domain=www.google.com
+||google.com^/xjs/$domain=www.google.com
+||googleadservices.com^$domain=www.google.com
+||googletagmanager.com^$domain=www.google.com
+||gstatic.com^/_/mss/boq-one-google/$domain=www.google.com
+||gstatic.com^/og/$domain=www.google.com
+||ogs.google.com^$domain=www.google.com
+
 ! so.com
 ||360.cn^$domain=www.so.com
 ||360kuai.com^$domain=www.so.com
@@ -30,20 +42,3 @@ www.so.com###bd_search
 www.so.com###card_container
 www.so.com###footer
 www.so.com###header
-
-! google.com
-||google.com/*_204^$domain=www.google.com
-||google.com/log^$domain=www.google.com
-||google.com/pagead^$domain=www.google.com
-||googletagmanager.com^$domain=www.google.com
-||googleadservices.com^$domain=www.google.com
-||ogs.google.com^$domain=www.google.com
-||gstatic.com/_/mss/boq-one-google^$domain=www.google.com
-||gstatic.com/og^$domain=www.google.com
-||google.com/u/0/ogw^$domain=www.google.com
-||google.com/xjs^$domain=www.google.com
-
-
-
-
-
