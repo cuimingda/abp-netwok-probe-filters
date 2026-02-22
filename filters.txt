@@ -1,7 +1,7 @@
 [Adblock Plus 3.1]
 ! Title: Network Probes
 ! Description: Network Probe Filters for Adblock Plus
-! Homepage: https://github.com/cuimingda/abp-netwok-probe-filters
+! Homepage: https://github.com/cuimingda/abp-filters-search
 ! Expires: 1 day
 
 ! baidu.com
