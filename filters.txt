@@ -13,7 +13,7 @@
 ! ||bdimg.com^$domain=www.baidu.com
 ! ||baidu.com^$domain=www.baidu.com
 ! @@||baidu.com^$document,domain=baidu.com
-||*^$domain=www.baidu.com
+*$domain=www.baidu.com
 www.baidu.com###s_wrap
 www.baidu.com###chat-input-extension
 www.baidu.com##.chat-input-tool
