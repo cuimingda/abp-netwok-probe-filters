@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.19
+! Title: Adblock Plus Filters 1.0.20
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
@@ -170,7 +170,8 @@
 ||zemanta.com^
 
 
-
+||google.com/log^
+||google.com/pagead^
 
 
 
@@ -186,8 +187,6 @@ www.baidu.com###s_wrap
 
 ! google.com
 ||google.com/*_204^$domain=www.google.com
-||google.com/log^$domain=www.google.com
-||google.com/pagead^$domain=www.google.com
 ||google.com/u/0/ogw^$domain=www.google.com
 ||google.com/xjs^$domain=www.google.com
 ||gstatic.com/_/mss/boq-one-google^$domain=www.google.com
